@@ -1,0 +1,18 @@
+Fonts
+1. Gilda Display
+2. Manrope
+
+
+YT Video Embed
+<iframe width="1200" height="675" src="https://www.youtube.com/embed/CMnn7_FXfhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+primary: #1c4da1;
+secondary: #54595f;
+text: #7a7a7a;
+accent: #69bf51;
+shade: #000e27;
+tint: #e4ebf9;
+grey: #3f495a;
+
+cards
+background:#f8f9fe
